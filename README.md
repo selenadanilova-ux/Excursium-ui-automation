@@ -47,11 +47,12 @@ project/
 ```
 git clone https://github.com
 cd ваш-репозиторий
-
+```
 * 2. Установите зависимости:
 ```
 pip install -r requirements.txt
-
+```
 * 3. Запустите тесты:
 ```
 pytest -v tests/test_auth.py
+```
