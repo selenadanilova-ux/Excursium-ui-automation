@@ -44,14 +44,14 @@ project/
 
 ### 🛠 Инструкция по запуску
 * 1. Клонируйте репозиторий:
-bash
+```
 git clone https://github.com
 cd ваш-репозиторий
 
 * 2. Установите зависимости:
-bash
+```
 pip install -r requirements.txt
 
 * 3. Запустите тесты:
-bash
+```
 pytest -v tests/test_auth.py
