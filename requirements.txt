@@ -1,0 +1,6 @@
+pytest~=9.0.2
+pytest-selenium
+dotenv
+
+selenium~=4.40.0
+python-dotenv~=1.2.1
